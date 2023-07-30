@@ -36,7 +36,7 @@ const Navbar = () => {
     return (
             <nav className={`navbar ${location.pathname!=='/'?"sticky":""} ${stickyClass}`} stickNavbar>
                 <div className="max-width">
-                    <div className="logo"><Link to="/">Ram<span>ki</span></Link></div>
+                    <div className="logo"><Link to="/">G<span>S</span></Link></div>
                     <ul className="menu" ref={menuRef}>
                         <li><Link to="/" className={`menu-btn ${location.pathname==="/"?"active":""}`}>Home</Link></li>
                         <li><Link to="/about" className={`menu-btn ${location.pathname==="/about"?"active":""}`}>About</Link></li>

@@ -9,14 +9,14 @@ const Contact = () => {
             <div className="contact-content">
                 <div className="column left">
                     <div className="text">Get in Touch</div>
-                    <p>For any information regarding my work kindly, contact me though the following details.</p>
+                    <p>You can contact me though the following details.</p>
                     <div className="icons">
                         <div className="row">
                             <Link to='/contact'>
                                 <i className="fas fa-user"></i>
                                 <div className="info">
                                     <div className="head">Name</div>
-                                    <div className="sub-title">Rama Krishna</div>
+                                    <div className="sub-title">Gorle Sirisha</div>
                                 </div>
                             </Link>
                         </div>
@@ -25,7 +25,7 @@ const Contact = () => {
                                 <i className="fas fa-map-marker-alt"></i>
                                 <div className="info">
                                     <div className="head">Address</div>
-                                    <div className="sub-title">Ganganamma peta, Tenali, Andhra Pradesh</div>
+                                    <div className="sub-title">Visakhapatnam, Andhra Pradesh</div>
                                 </div>
                             </a>
                         </div>
@@ -34,17 +34,16 @@ const Contact = () => {
                                 <i className="fas fa-envelope"></i>
                                 <div className="info">
                                     <div className="head">Email</div>
-                                    <div className="sub-title">ramakrishnaeswar100@gmail.com</div>
+                                    <div className="sub-title">sirishagorle2002@gmail.com</div>
                                 </div>
                             </a>
                         </div>
                     </div>
                     <div className="socialsite">
                         <ul className="sci">
-                            <li><a href="tel:+916301989355"><i className="fas fa-phone"></i></a></li>
-                            <li><a href="https://github.com/RamaITB044" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a></li>
-                            <li><a href="https://www.linkedin.com/in/namburu-rama-krishna-aa3175203/" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a></li>
-                            <li><a href="https://www.instagram.com/ramakrishna.namburi/" target="_blank" rel="noreferrer"><i className="fa-brands fa-instagram"></i></a></li>
+                            <li><a href="tel:+919515066025"><i className="fas fa-phone"></i></a></li>
+                            <li><a href="https://github.com/Sirisha-gorle" target="_blank" rel="noreferrer"><i className="fa-brands fa-github"></i></a></li>
+                            <li><a href="https://www.linkedin.com/in/gorle-sirisha-a7a511200" target="_blank" rel="noreferrer"><i className="fa-brands fa-linkedin-in"></i></a></li>
                         </ul>
                     </div>
                 </div>

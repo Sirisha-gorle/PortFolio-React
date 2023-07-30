@@ -171,6 +171,11 @@ section .title::after{
     font-size: 40px;
     margin: 5px 0;
 }
+.home .home-content .text-4{
+    padding-top: 10px;
+    opacity: 0.4;
+    font-size: 15px;
+}
 .home .home-content .text-3 span{
     color: crimson;
     font-weight: 500;
@@ -393,34 +398,34 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .c::before{
-    width: 75%;
+    width: 100%;
 }
 .skills-content .right .python::before{
-    width: 90%;
+    width: 70%;
 }
 .skills-content .right .html::before{
-    width: 85%;
+    width: 95%;
 }
 .skills-content .right .css::before{
-    width: 80%;
+    width: 95%;
 }
 .skills-content .right .js::before{
     width: 80%;
 }
 .skills-content .right .nodejs::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .reactjs::before{
-    width: 60%;
+    width: 70%;
 }
 .skills-content .right .mongodb::before{
-    width: 75%;
+    width: 50%;
 }
 .skills-content .right .php::before{
-    width: 70%;
+    width: 50%;
 }
 .skills-content .right .mysql::before{
-    width: 70%;
+    width: 80%;
 }
 
 /* contact section styling */
@@ -563,7 +568,7 @@ footer{
     text-align: center;
 }
 footer span a{
-    color: yellow;
+    color: #04c2c9;
     text-decoration: none;
 }
 footer span a:hover{
@@ -620,6 +625,11 @@ footer span a:hover{
     .home .home-content .text-3{
         font-size: 35px;
     }
+    .home .home-content .text-4{
+        padding-top: 10px;
+        opacity: 0.4;
+        font-size: 15px;
+    }
     .home .home-content a{
         font-size: 23px;
         padding: 10px 30px;
@@ -659,6 +669,11 @@ footer span a:hover{
     .home .home-content .text-3{
         font-size: 32px;
     }
+    .home .home-content .text-4{
+        padding-top: 10px;
+        opacity: 0.4;
+        font-size: 15px;
+    }
     .home .home-content a{
         font-size: 20px;
     }
@@ -673,6 +688,11 @@ footer span a:hover{
     }
     .home .home-content .text-3{
         font-size: 27px;
+    }
+    .home .home-content .text-4{
+        padding-top: 10px;
+        opacity: 0.4;
+        font-size: 15px;
     }
     .about .about-content .right .text,
     .skills .skills-content .left .text{
