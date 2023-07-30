@@ -25,7 +25,6 @@ const Service = () => {
                         <span><i class="fa-brands fa-js"></i><span> JavaScript</span></span>
                         <span><i class="fa-brands fa-node"></i><span> Nodejs</span></span>
                         <span><i class="fa-brands fa-react"></i><span> Reactjs</span></span>
-                        <span><i class="fa-solid fa-database"></i><span> Mysql</span></span>
                     </div>
                 </a>
                 <a href='' className="card">
@@ -44,7 +43,7 @@ const Service = () => {
                 </a>
                 <a href='' className="card">
                     <div className="img">
-                        <img src={Project1} alt="Inventrom Website"/>
+                        <img src={Project1} alt="Inventrom-Website"/>
                     </div>
                     <div className="box">
                         <div className="text">Inventrom Website</div>
@@ -73,7 +72,7 @@ const Service = () => {
                 </a>
                 <a href='' className="card">
                     <div className="img">
-                        <img src={Project2} alt="Netflix Clone"/>
+                        <img src={Project2} alt="Netflix-Clone"/>
                     </div>
                     <div className="box">
                         <div className="text">Netflix Colne</div>
@@ -85,8 +84,6 @@ const Service = () => {
                         <span><i class="fa-brands fa-js"></i><span> JavaScript</span></span>
                         <span><i class="fa-brands fa-node"></i><span> Nodejs</span></span>
                         <span><i class="fa-brands fa-react"></i><span> Reactjs</span></span>
-                        <span><i class="fa-brands fa-mongodb"></i><span> Mongodb</span></span>
-                        <span><i class="fa-brands fa-tailwindcss"></i><span> Tailwind CSS</span></span>
                     </div>
                 </a>
                </div>
